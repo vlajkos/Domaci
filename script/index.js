@@ -27,7 +27,7 @@ dugme.addEventListener("click", function (event) {
 });
 
 ime.addEventListener("mouseover", function () {
-    ime.classList.remove("upozorenj");
+    ime.classList.remove("upozorenje");
 
 })
 adresa.addEventListener("mouseover", function () {
